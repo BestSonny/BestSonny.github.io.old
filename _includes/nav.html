@@ -1,0 +1,16 @@
+<ul class="menu">
+
+    {% for pan in site.data.menu %}
+    {% if pan.subcategories != null %}
+    <li><a href="{{ pan.href }}" class="page-link">{{ pan.title }}</a>
+    <ul class="sub-menu">
+    {% for subcategory in pan.subcategories %}
+    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    {% else %}
+     <li><a href="{{ pan.href }}" class="page-link">{{ pan.title }}</a>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>
