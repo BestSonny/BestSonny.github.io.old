@@ -1,1 +1,7 @@
-This is my personal website.
+GitHub Readme
+=====================================
+
+Motivation
+----------
+
+Just my personal website.
