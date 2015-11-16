@@ -57,4 +57,5 @@ permalink: /research/
 
 
 <h2 id="Patent">Patent</h2>
+
 <p align="justify">“METHODS AND APPARATUS FOR RECOGNIZING TEXT IN AN IMAGE”, <em>International Patent: PCT/CN2015/081308. with Xiaoou Tang, Yu Qiao, Chen Change Loy and Weilin Huang.</em>
