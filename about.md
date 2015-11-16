@@ -6,7 +6,6 @@ permalink: /about/
 
 
 <div style="text-align: justify;" markdown="1">
-{% include image.html url="/images/panhe.jpg" caption="Me at Singapore in 2014." width="260" height="300" align="right" %}
 
 My research interests are in computer vision, machine learning and pattern recognition, After obtaining my bachelor degree (1st-class) from [Department of Software Engineering](http://www.scu.edu.cn/software2012/), [Sichuan University](http://www.scu.edu.cn/en/). I became a Research Assistant in [Multimedia Laboratory](http://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), which is one of the world-leading research group on deep learning and computer vision.
 
