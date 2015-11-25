@@ -108,13 +108,13 @@ My research interests lie in computer vision, machine learning and pattern recog
 
 <div style="text-align: left;" markdown="1">
 
-* June 2015,         Graduation Thesis Awarded First Prize (Top 1%)
-* June 2015,        Outstanding Graduate of Sichuan University (Top 1%)
+* June 2015,        Graduation Thesis Awarded First Prize (Top 1%)
+* June 2015,        Outstanding Graduate of Sichuan University (Top 2%)
 * February 2014, 	Second Prize, Chinese International Software Design and Application Contest
 * May 2014,    		First Prize, Waterloo Cup
 * March 2014,    	Third Prize, Mathematical Contest In Modeling
 * March 2014,    	Outstanding Team, ICS&S Internship Project
-* November 2013, 	First Prize Scholarship (Top 1%)
+* November 2013, 	First Prize Scholarship (Top 2%)
 * November 2013, 	National Aspiration Scholarship (Top 5%)
 * November 2013,  	Merit Student (Top 5%)
 * November 2012,  	National Aspiration Scholarship (Top 5%)
