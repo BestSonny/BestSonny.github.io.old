@@ -16,6 +16,7 @@ This is the joint optimization implementation of Pan He et al.'s AAAI-16 work [R
 
 ## Citation
 If you use the codes as part of your research project, please cite our work as follows:
+
 ```
 @inproceedings{panhe16readText,
  Author    = {Pan He and
@@ -34,12 +35,14 @@ If you use the codes as part of your research project, please cite our work as f
 
 Torch can be installed to your home folder in ~/torch by running these three commands:
 
-```bash
+```
+bash
 # in a terminal, run the commands
 curl -s https://raw.githubusercontent.com/torch/ezinstall/master/install-deps | bash
 git clone https://github.com/torch/distro.git ~/torch --recursive
 cd ~/torch; ./install.sh
 ```
+
 ### Installing Dependencies
 
 * "eladtools" (https://github.com/eladhoffer/eladtools) for optimizer.
