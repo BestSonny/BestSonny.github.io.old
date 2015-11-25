@@ -29,13 +29,41 @@ permalink: /research/
 </script>
 
 
+<h2 id="about">About Me</h2>
+<div class="about">
+
+<p align="justify">
+I received B.E. degree from <a href='http://www.scu.edu.cn/software2012/'>Department of Software Engineering</a> at <a href='http://www.scu.edu.cn/en/'>Sichuan University</a> in June, 2015, and now I am a joint research assistant in  <a href='http://www.ie.cuhk.edu.hk/main/index.shtml'>the Department of Information Engineering</a> at <a href='http://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> (CUHK) and <a href='http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/'>Multimedia Research Center</a> at <a href='http://english.siat.cas.cn/'>Shenzhen Institute of Advanced Technology</a>.
+
+I am working at the <a href='http://mmlab.ie.cuhk.edu.hk/'>Multimedia Lab</a>. Meanwhile, I work closely with Dr. <a href='http://www.wlhuang.com/'>Weilin Huang</a> and Prof. <a href='http://mmlab.siat.ac.cn/yuqiao/'>Yu Qiao</a>.
+
+<br /> <br />
+
+My research interests lie in computer vision, machine learning and pattern recognition. In particular, I focus on scene text understanding including scene text recognition and scene text detection.
+<br /> <br />
+
+</p>
+
+</div>
+
+
+<h2 id="education">Education</h2>
+
+<div style="text-align: justify;" markdown="1">
+ Sichuan University, B.E. in Software Engineering, June 2015
+
+* Overall GPA: 89.8/100 (3.65/4), Rank: 6/334
+
+
+
+
 <h2 id="publications">Publication</h2>
 <ul>	
 	<li>
 	  <a href="http://arxiv.org/abs/1506.04395">Reading Scene Text in Deep Convolutional Sequences</a>,<br>
 	  <b>Pan he</b>, Weilin Huang, Yu Qiao, Chen Change Loy, Xiaoou Tang.<br>
 	  <em>in Proceedings of AAAI Conference on Artificial Intelligence, 2016 (AAAI) <br>
-		  <p style="margin-top:3px">
+		  <p style="margin-Top:3px">
 		  	<a href="http://arxiv.org/abs/1506.04395">Paper</a> / 
 		  	<a >Code</a> /
 		  	<a shape="rect" href="javascript:show_switch('panhe16readText_bib')" class="togglebib" >Bibtex</a> 
@@ -56,6 +84,32 @@ permalink: /research/
 </ul>	
 
 
-<h2 id="Patent">Patent</h2>
+<h2 id="patent">Patent</h2>
+<ul>	
+	<li>
+	<a href="" >“METHODS AND APPARATUS FOR RECOGNIZING TEXT IN AN IMAGE”,</a>,<br>
+	 <em>International Patent: PCT/CN2015/081308. with Xiaoou Tang, Yu Qiao, Chen Change Loy and Weilin Huang.</em>
+	</li>
+</ul>	
 
-<p align="justify">“METHODS AND APPARATUS FOR RECOGNIZING TEXT IN AN IMAGE”, <em>International Patent: PCT/CN2015/081308. with Xiaoou Tang, Yu Qiao, Chen Change Loy and Weilin Huang.</em>
+</div>
+
+<h2 id="awards">Awards</h2>
+
+<div style="text-align: left;" markdown="1">
+
+* June 2015,         Graduation Thesis Awarded First Prize (Top 1%)
+* June 2015,        Outstanding Graduate of Sichuan University (Top 1%)
+* February 2014, 	Second Prize, Chinese International Software Design and Application Contest
+* May 2014,    		First Prize, Waterloo Cup
+* March 2014,    	Third Prize, Mathematical Contest In Modeling
+* March 2014,    	Outstanding Team, ICS&S Internship Project
+* November 2013, 	First Prize Scholarship (Top 1%)
+* November 2013, 	National Aspiration Scholarship (Top 5%)
+* November 2013,  	Merit Student (Top 5%)
+* November 2012,  	National Aspiration Scholarship (Top 5%)
+* November 2012,  	Third Prize Scholarship (Top 5%)
+* November 2012,  	Merit Student (Top 5%)
+* May 2012,	    	Third Prize, Programming Contest, SCU
+
+</div>

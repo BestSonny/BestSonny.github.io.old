@@ -1,10 +1,10 @@
 - title: "About"
   href: "/about/"
 
-- title: "Research"
-  href: "/research/"
+#- title: "Research"
+#  href: "/research/"
 
-- title: "CV"
+- title: "Download"
   href: "/cv/"
 
 - title: "Deadline"

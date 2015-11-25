@@ -101,7 +101,7 @@ a {
     }
 
     &:hover {
-        color: #67BCDB;
+        color:$brand-color;
         text-decoration: underline;
     }
 }
