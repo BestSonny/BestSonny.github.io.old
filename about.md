@@ -61,7 +61,7 @@ My research interests lie in computer vision, machine learning and pattern recog
 <h2 id="publications">Publication</h2>
 <ul>	
 	<li>
-	  <a href="http://arxiv.org/abs/1506.04395">Reading Scene Text in Deep Convolutional Sequences</a>,<br>
+	  <a href="http://arxiv.org/abs/1506.04395">Reading Scene Text in Deep Convolutional Sequences,</a><br>
 	  <b>Pan he</b>, Weilin Huang, Yu Qiao, Chen Change Loy, Xiaoou Tang.<br>
 	  <em>in Proceedings of AAAI Conference on Artificial Intelligence, 2016 (AAAI) <br>
 		  <p style="margin-Top:3px">
@@ -88,7 +88,7 @@ My research interests lie in computer vision, machine learning and pattern recog
 <h2 id="patent">Patent</h2>
 <ul>	
 	<li>
-	<a href="" >“METHODS AND APPARATUS FOR RECOGNIZING TEXT IN AN IMAGE”,</a>,<br>
+	<a href="" >“METHODS AND APPARATUS FOR RECOGNIZING TEXT IN AN IMAGE”,</a><br>
 	 <em>International Patent: PCT/CN2015/081308. with Xiaoou Tang, Yu Qiao, Chen Change Loy and Weilin Huang.</em>
 	</li>
 </ul>	
