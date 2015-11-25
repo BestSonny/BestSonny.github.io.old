@@ -35,7 +35,7 @@ permalink: /about/
 <div class="about">
 
 <p align="justify">
-I received B.E. degree from <a href='http://www.scu.edu.cn/software2012/'>Department of Software Engineering</a> at <a href='http://www.scu.edu.cn/en/'>Sichuan University</a> in June, 2015, and now I am a joint research assistant in  <a href='http://www.ie.cuhk.edu.hk/main/index.shtml'>the Department of Information Engineering</a> at <a href='http://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> (CUHK) and <a href='http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/'>Multimedia Research Center</a> at <a href='http://english.siat.cas.cn/'>Shenzhen Institute of Advanced Technology</a>.
+I received B.E. degree from <a href='http://www.scu.edu.cn/software2012/'>Department of Software Engineering</a> at <a href='http://www.scu.edu.cn/en/'>Sichuan University</a> in June, 2015, and now I am a joint research assistant in  <a href='http://www.ie.cuhk.edu.hk/main/index.shtml'>Department of Information Engineering</a> at <a href='http://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> (CUHK) and <a href='http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/'>Multimedia Research Center</a> at <a href='http://english.siat.cas.cn/'>Shenzhen Institute of Advanced Technology</a>.
 
 I am working at the <a href='http://mmlab.ie.cuhk.edu.hk/'>Multimedia Lab</a>. Meanwhile, I work closely with Dr. <a href='http://www.wlhuang.com/'>Weilin Huang</a> and Prof. <a href='http://mmlab.siat.ac.cn/yuqiao/'>Yu Qiao</a>.
 
