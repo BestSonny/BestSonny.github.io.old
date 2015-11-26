@@ -18,7 +18,7 @@ This is the joint optimization implementation of Pan He et al.'s AAAI-16 work [R
 If you use the codes as part of your research project, please cite our work as follows:
 
 ```
-@inproceedings{panhe16readText,
+@inproceedings{panhe16readText,  
  Author    = {Pan He and
               Weilin Huang and
               Yu Qiao and

@@ -120,6 +120,9 @@ My research interests lie in computer vision, machine learning and pattern recog
 * November 2012,  	National Aspiration Scholarship (Top 5%)
 * November 2012,  	Third Prize Scholarship (Top 5%)
 * November 2012,  	Merit Student (Top 5%)
-* May 2012,	    	Third Prize, Programming Contest, SCU
+
 
 </div>
+
+
+
