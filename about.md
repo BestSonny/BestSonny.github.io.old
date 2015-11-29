@@ -66,6 +66,7 @@ My research interests lie in computer vision, machine learning and pattern recog
 	  <em>in Proceedings of AAAI Conference on Artificial Intelligence, 2016 (AAAI) <br>
 		  <p style="margin-Top:3px">
 		  	<a href="http://arxiv.org/abs/1506.04395">Paper</a> / 
+		  	<a href="/project/DTRN">ProjectPage</a> /
 		  	<a >Code</a> /
 		  	<a shape="rect" href="javascript:show_switch('panhe16readText_bib')" class="togglebib" >Bibtex</a> 
 <pre id="panhe16readText_bib" style="display: none" xml:space="preserve">

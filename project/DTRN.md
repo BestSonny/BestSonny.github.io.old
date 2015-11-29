@@ -20,7 +20,7 @@ permalink: /project/DTRN/
 	  <a href="http://english.siat.cas.cn/"> Shenzhen Institutes of Advanced Technology, </a>
 	  <a href="http://english.cas.cn/">Chinese Academy of Sciences</a>
 	</div>
-	
+
 	<div class="affiliations">
 	  <a href="http://mmlab.ie.cuhk.edu.hk/">Multimedia Laboratory, </a>
 	  <a href="http://www.ie.cuhk.edu.hk/">Department of Information Engineering, </a>
@@ -44,7 +44,6 @@ permalink: /project/DTRN/
 	</p>
 </div>
 
-
 <div class="section list">
 	<h2>Citation</h2>
 	
@@ -61,6 +60,9 @@ permalink: /project/DTRN/
 	</pre>
 	</div>
 </div>
+
+
+
 
 
 
