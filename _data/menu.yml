@@ -16,6 +16,4 @@
   href: "/project/"
   subcategories:
     - subtitle: "DTRN"
-      subhref: "/project/item-1/"
-    - subtitle: "FCNN"
-      subhref: "/project/item-2/"
+      subhref: "/project/DTRN/"
