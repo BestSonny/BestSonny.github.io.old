@@ -16,10 +16,17 @@ permalink: /project/DTRN/
 	</div>
 
 	<div class="affiliations">
+	  <a href="">Shenzhen Key Lab of Comp. Vis and Pat. Rec.,</a>
+	  <a href="http://english.siat.cas.cn/"> Shenzhen Institutes of Advanced Technology, </a>
+	  <a href="http://english.cas.cn/">Chinese Academy of Sciences</a>
+	</div>
+	
+	<div class="affiliations">
 	  <a href="http://mmlab.ie.cuhk.edu.hk/">Multimedia Laboratory, </a>
 	  <a href="http://www.ie.cuhk.edu.hk/">Department of Information Engineering, </a>
 	  <a href="www.cuhk.edu.hk">The Chinese University of Hong Kong</a>
 	</div>
+
 
 	<div class="venue">AAAI Conference on Artificial Intelligence (<a href="http://www.aaai.org/Conferences/AAAI/aaai16.php" target="_blank">AAAI</a>) 2016, Phoenix, Arizona USA
 	</div>
