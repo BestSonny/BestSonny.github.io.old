@@ -24,7 +24,7 @@ permalink: /project/DTRN/
 	<div class="affiliations">
 	  <a href="http://mmlab.ie.cuhk.edu.hk/">Multimedia Laboratory, </a>
 	  <a href="http://www.ie.cuhk.edu.hk/">Department of Information Engineering, </a>
-	  <a href="www.cuhk.edu.hk">The Chinese University of Hong Kong</a>
+	  <a href="http://www.cuhk.edu.hk">The Chinese University of Hong Kong</a>
 	</div>
 
 
