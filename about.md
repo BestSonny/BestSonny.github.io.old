@@ -108,7 +108,7 @@ My research interests lie in computer vision, machine learning and pattern recog
 <h2 id="awards">Awards</h2>
 
 <div style="text-align: left;" markdown="1">
-* Feb 2016,          SIAT Direct Scholarship for Innovation and Creativity
+* February 2016,    SIAT Direct Scholarship for Innovation and Creativity
 * June 2015,        Graduation Thesis Awarded First Prize (Top 1%)
 * June 2015,        Outstanding Graduate of Sichuan University (Top 2%)
 * February 2014, 	Second Prize, Chinese International Software Design and Application Contest
