@@ -13,7 +13,7 @@ permalink: /about/
 
 	function show_switch(obj_name) {
 		var obj = document.getElementById(obj_name);
-		
+
 		if (obj.style.display == "none") {
 			obj.style.display = "block";
 		}
@@ -59,40 +59,40 @@ My research interests lie in computer vision, machine learning and pattern recog
 </div>
 
 <h2 id="publications">Publication</h2>
-<ul>	
+<ul>
 	<li>
 	  <a href="http://arxiv.org/abs/1506.04395">Reading Scene Text in Deep Convolutional Sequences,</a><br>
 	  <b>Pan he</b>, Weilin Huang, Yu Qiao, Chen Change Loy, Xiaoou Tang.<br>
-	  <em>in Proceedings of AAAI Conference on Artificial Intelligence, 2016 (AAAI) <br>
+	  <em>in Proceedings of AAAI Conference on Artificial Intelligence, 2016 (<a>AAAI Oral</a>) <br>
 		  <p style="margin-Top:3px">
-		  	<a href="http://arxiv.org/abs/1506.04395">Paper</a> / 
+		  	<a href="http://arxiv.org/abs/1506.04395">Paper</a> /
 		  	<a href="/project/DTRN">ProjectPage</a> /
 		  	<a >Code</a> /
-		  	<a shape="rect" href="javascript:show_switch('panhe16readText_bib')" class="togglebib" >Bibtex</a> 
+		  	<a shape="rect" href="javascript:show_switch('panhe16readText_bib')" class="togglebib" >Bibtex</a>
 <pre id="panhe16readText_bib" style="display: none" xml:space="preserve">
 @inproceedings{panhe16readText,
  Author    = {Pan He and
               Weilin Huang and
               Yu Qiao and
-              Chen Change Loy and 
+              Chen Change Loy and
               Xiaoou Tang},
  Title     = {Reading Scene Text in Deep Convolutional Sequences},
  Booktitle = {in Proceedings of AAAI Conference on Artificial Intelligence, (AAAI)},
  Year      = {2016}}
 </pre>
-		  </p>	
+		  </p>
 	  </em>
 </li>
-</ul>	
+</ul>
 
 
 <h2 id="patent">Patent</h2>
-<ul>	
+<ul>
 	<li>
 	<a href="" >“METHODS AND APPARATUS FOR RECOGNIZING TEXT IN AN IMAGE”,</a><br>
 	 <em>International Patent: PCT/CN2015/081308. with Xiaoou Tang, Yu Qiao, Chen Change Loy and Weilin Huang.</em>
 	</li>
-</ul>	
+</ul>
 
 <h2 id="experience">Experiences</h2>
 
@@ -108,7 +108,7 @@ My research interests lie in computer vision, machine learning and pattern recog
 <h2 id="awards">Awards</h2>
 
 <div style="text-align: left;" markdown="1">
-
+* Feb 2016,          SIAT Direct Scholarship for Innovation and Creativity
 * June 2015,        Graduation Thesis Awarded First Prize (Top 1%)
 * June 2015,        Outstanding Graduate of Sichuan University (Top 2%)
 * February 2014, 	Second Prize, Chinese International Software Design and Application Contest
@@ -124,6 +124,3 @@ My research interests lie in computer vision, machine learning and pattern recog
 
 
 </div>
-
-
-
