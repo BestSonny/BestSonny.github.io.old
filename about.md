@@ -60,6 +60,17 @@ My research interests lie in computer vision, machine learning and pattern recog
 
 <h2 id="publications">Publication</h2>
 <ul>
+  <li>
+    <a>ECCV16 SUBMISSION,</a><br>
+    European Conference on Computer Vision (ECCV), 2016.<br>
+    <em>Our new method achieves state-of-the-art performance on ICDAR2011, ICDAR2013, SWT and multi-lingual benchmarks.<br>
+      <p style="margin-Top:3px">
+        <a href="">Paper</a> /
+        <a href="">ProjectPage</a> /
+        <a >Code</a>
+      </p>
+    </em>
+  </li>
 	<li>
 	  <a href="http://arxiv.org/abs/1506.04395">Reading Scene Text in Deep Convolutional Sequences,</a><br>
 	  <b>Pan he</b>, Weilin Huang, Yu Qiao, Chen Change Loy, Xiaoou Tang.<br>
