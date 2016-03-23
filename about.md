@@ -78,7 +78,7 @@ My research interests lie in computer vision, machine learning and pattern recog
 		  <p style="margin-Top:3px">
 		  	<a href="http://arxiv.org/abs/1506.04395">Paper</a> /
 		  	<a href="/project/DTRN">ProjectPage</a> /
-		  	<a >Code</a> /
+		  	<a href="/pdf/aaai.pdf">Presentation</a> /
 		  	<a shape="rect" href="javascript:show_switch('panhe16readText_bib')" class="togglebib" >Bibtex</a>
 <pre id="panhe16readText_bib" style="display: none" xml:space="preserve">
 @inproceedings{panhe16readText,
