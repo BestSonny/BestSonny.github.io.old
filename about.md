@@ -63,7 +63,7 @@ My research interests lie in computer vision, machine learning and pattern recog
   <li>
     <a>ECCV16 SUBMISSION,</a><br>
     European Conference on Computer Vision (ECCV), 2016.<br>
-    <em>Our new method achieves state-of-the-art performance on ICDAR2011, ICDAR2013, SWT and multi-lingual benchmarks.<br>
+    <em>Our new method achieves state-of-the-art performance on ICDAR2011, ICDAR2013.<br>
       <p style="margin-Top:3px">
         <a href="">Paper</a> /
         <a href="">ProjectPage</a> /
