@@ -24,15 +24,14 @@ deadlines.push({
 deadlines.push({
   venue: "ICML",
   area: "Machine Learning",
-  deadline: moment("2016-02-05 23:59:00 +0000", "YYYY-MM-DD HH:mm:ss Z"),
-  website: "http://icml.cc/2016/",
+  deadline: moment("2017-02-05 23:59:00 +0000", "YYYY-MM-DD HH:mm:ss Z"),
+  website: "http://icml.cc/2017/",
 });
 deadlines.push({
   venue: "NIPS",
   area: "Machine Learning",
-  deadline: moment("2016-06-05 16:00:00 -0800", "YYYY-MM-DD HH:mm:ss Z"),
-  website: "https://nips.cc/Conferences/2016",
-  approx: 1,
+  deadline: moment("2016-05-20 16:00:00 -0800", "YYYY-MM-DD HH:mm:ss Z"),
+  website: "https://nips.cc/Conferences/2017",
 });
 deadlines.push({
   venue: "AISTATS",
@@ -46,25 +45,23 @@ deadlines.push({
   area: "Data Mining",
   deadline: moment("2016-02-20 23:59:00 -0800", "YYYY-MM-DD HH:mm:ss Z"),
   website: "http://www.kdd.org/kdd2016/",
-  approx: 1,
 });
 
 deadlines.push({
   venue: "UAI",
   area: "Machine Learning",
   deadline: moment("2016-03-03 23:59:00 +0000", "YYYY-MM-DD HH:mm:ss Z"),
-  approx: 1,
 });
 deadlines.push({
   venue: "CVPR",
   area: "Computer Vision",
-  deadline: moment("2015-11-06 23:00:00 +0000", "YYYY-MM-DD HH:mm:ss Z"),
-  website: "http://www.pamitc.org/cvpr16/",
+  deadline: moment("2016-11-11 23:00:00 +0000", "YYYY-MM-DD HH:mm:ss Z"),
+  website: "http://cvpr2017.thecvf.com/",
 });
 deadlines.push({
   venue: "IJCAI Abstract",
   area: "Machine Learning",
-  deadline: moment("2016-01-27 23:59:00 -1200", "YYYY-MM-DD HH:mm:ss Z"),
+  deadline: moment("2016-02-19 23:59:00 -1200", "YYYY-MM-DD HH:mm:ss Z"),
   website: "http://ijcai-16.org/",
 });
 deadlines.push({
@@ -77,7 +74,6 @@ deadlines.push({
   venue: "COLT",
   area: "Machine Learning",
   deadline: moment("2016-02-19 23:59:00 -1100", "YYYY-MM-DD HH:mm:ss Z"),
-  approx: 1,
 });
 deadlines.push({
   venue: "ICLR Abstract",
@@ -96,7 +92,6 @@ deadlines.push({
   area: "Computer Vision",
   deadline: moment("2016-03-14 00:00:00 +0000", "YYYY-MM-DD HH:mm:ss Z"),
   website: "http://www.eccv2016.org/",
-  approx: 1,
 });
 // HELPER FUNCTIONS
 var timeDescription = function(x) {  
