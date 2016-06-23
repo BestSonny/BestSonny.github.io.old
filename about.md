@@ -49,16 +49,28 @@ My research interests lie in computer vision, machine learning and pattern recog
 </div>
 
 
-<h2 id="education">Education</h2>
+<!-- <h2 id="education">Education</h2>
 
 <div style="text-align: justify;" markdown="1">
  Sichuan University, B.E. in Software Engineering, June 2015
 
-* Overall GPA: 89.8/100 (3.65/4), Rank: 6/334
+* Overall GPA: 3.65/4, Rank: 6/334
+
+</div> -->
+
+<h2 id="experience">Experience</h2>
+
+<div style="text-align: justify;" markdown="1">
+
+* October 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, MMlab group, The Chinese University of Hong Kong
+* July 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, MMlab group, The Shenzhen Institues of Advanced Technology
+* July 2014 - September 2014: &nbsp;&nbsp;&nbsp; Summer Intern, National University of Singapore
+* September 2013 - May 2014: &nbsp;&nbsp;&nbsp; Project Developer, Facebook’s OpenSource Academy
 
 </div>
 
-<h2 id="publications">Publication</h2>
+
+<h2 id="publications">Publications</h2>
 <ul>
   <li>
     <a>ECCV16 SUBMISSION,</a><br>
@@ -97,7 +109,7 @@ My research interests lie in computer vision, machine learning and pattern recog
 </ul>
 
 
-<h2 id="patent">Patent</h2>
+<h2 id="patent">Patents</h2>
 <ul>
 	<li>
 	<a href="" >“METHODS AND APPARATUS FOR RECOGNIZING TEXT IN AN IMAGE”,</a><br>
@@ -105,22 +117,11 @@ My research interests lie in computer vision, machine learning and pattern recog
 	</li>
 </ul>
 
-<h2 id="experience">Experiences</h2>
-
-<div style="text-align: justify;" markdown="1">
-
-* October 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, MMlab group, The Chinese University of Hong Kong
-* July 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, MMlab group, The Shenzhen Institues of Advanced Technology
-* July 2014 - September 2014: &nbsp;&nbsp;&nbsp; Summer Intern, National University of Singapore
-* September 2013 - May 2014: &nbsp;&nbsp;&nbsp; Project Developer, Facebook’s OpenSource Academy
-
-</div>
-
-<h2 id="awards">Awards</h2>
+<h2 id="awards">Honors & Awards</h2>
 
 <div style="text-align: left;" markdown="1">
 * February 2016,    SIAT Direct Scholarship for Innovation and Creativity
-* June 2015,        Graduation Thesis Awarded First Prize (Top 1%)
+* June 2015,        Graduation Thesis Awarded First Prize  (2 recipients in SE   department)
 * June 2015,        Outstanding Graduate of Sichuan University (Top 2%)
 * February 2014, 	Second Prize, Chinese International Software Design and Application Contest
 * May 2014,    		First Prize, Waterloo Cup
