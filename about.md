@@ -62,8 +62,8 @@ My research interests lie in computer vision, machine learning and pattern recog
 
 <div style="text-align: justify;" markdown="1">
 
-* October 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, MMlab group, The Chinese University of Hong Kong
-* July 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, MMlab group, The Shenzhen Institues of Advanced Technology
+* October 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, Multimedia Laboratory, The Chinese University of Hong Kong
+* July 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, Multimedia Research Center, The Shenzhen Institues of Advanced Technology
 * July 2014 - September 2014: &nbsp;&nbsp;&nbsp; Summer Intern, National University of Singapore
 * September 2013 - May 2014: &nbsp;&nbsp;&nbsp; Project Developer, Facebook’s OpenSource Academy
 
@@ -73,9 +73,9 @@ My research interests lie in computer vision, machine learning and pattern recog
 <h2 id="publications">Publications</h2>
 <ul>
   <li>
-    <a>ECCV16 SUBMISSION,</a><br>
-    European Conference on Computer Vision (ECCV), 2016.<br>
-    <em>Our new method achieves state-of-the-art performance on ICDAR2011, ICDAR2013.<br>
+    <a>Detecting Text in Natural Image with Connectionist Text Proposal Network,</a><br>
+    Zhi Tian, Weilin Huang, Tong He, Pan he, Yu Qiao.<br>
+    <em>in Proceedings of European Conference on Computer Vision, 2016 (<a>ECCV</a>)<br>
       <p style="margin-Top:3px">
         <a href="">Paper</a> /
         <a href="">ProjectPage</a> /
