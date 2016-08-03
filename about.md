@@ -78,9 +78,22 @@ My research interests lie in computer vision, machine learning and pattern recog
     <em>in Proceedings of European Conference on Computer Vision, 2016 (<a>ECCV</a>)<br>
       <p style="margin-Top:3px">
         <a href="/pdf/ztian2016_eccv.pdf">Paper</a> /
-        <a href="http://textdet.com/">Demo</a>
+        <a href="http://textdet.com/">Demo</a> /
       </p>
-    </em>
+    <a shape="rect" href="javascript:show_switch('zhitian16DetectingText_bib')" class="togglebib" >Bibtex</a>
+<pre id="zhitian16DetectingText_bib" style="display: none" xml:space="preserve">
+@inproceedings{zhitian16DetectingText,
+ Author    = {Zhi Tian and
+              Weilin Huang and
+	          Tong He and
+	          Pan He and
+              Yu Qiao},
+ Title     = {Detecting Text in Natural Image with Connectionist Text Proposal Network},
+ Booktitle = {in Proceedings of European Conference on Computer Vision, (ECCV)},
+ Year      = {2016}}
+</pre>
+		  </p>
+	  </em>
   </li>
 	<li>
 	  <a href="http://arxiv.org/abs/1506.04395">Reading Scene Text in Deep Convolutional Sequences,</a><br>
@@ -102,7 +115,6 @@ My research interests lie in computer vision, machine learning and pattern recog
  Booktitle = {in Proceedings of AAAI Conference on Artificial Intelligence, (AAAI)},
  Year      = {2016}}
 </pre>
-		  </p>
 	  </em>
 </li>
 </ul>
