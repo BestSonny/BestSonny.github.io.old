@@ -77,9 +77,8 @@ My research interests lie in computer vision, machine learning and pattern recog
     Zhi Tian, Weilin Huang, Tong He, Pan he, Yu Qiao.<br>
     <em>in Proceedings of European Conference on Computer Vision, 2016 (<a>ECCV</a>)<br>
       <p style="margin-Top:3px">
-        <a href="">Paper</a> /
-        <a href="">ProjectPage</a> /
-        <a >Code</a>
+        <a href="/pdf/ztian2016_eccv.pdf">Paper</a> /
+        <a href="http://textdet.com/">Demo</a> /
       </p>
     </em>
   </li>
