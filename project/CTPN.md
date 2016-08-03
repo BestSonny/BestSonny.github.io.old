@@ -55,7 +55,7 @@ and 0.61 F-measure on the ICDAR 2013 and 2015 benchmarks, surpassing recent resu
 	<h2>Citation</h2>
 	
 	<div class="section bibtex">
-	  <pre>@inproceedings{panhe16readText,
+	  <pre>@inproceedings{zhitian16detectingtext,
  Author    = {Zhi Tian and
               Weilin Huang and
 	      Tong He and
