@@ -84,8 +84,8 @@ My research interests lie in computer vision, machine learning and pattern recog
 @inproceedings{zhitian16DetectingText,
  Author    = {Zhi Tian and
               Weilin Huang and
-	          Tong He and
-	          Pan He and
+              Tong He and
+              Pan He and
               Yu Qiao},
  Title     = {Detecting Text in Natural Image with Connectionist Text Proposal Network},
  Booktitle = {in Proceedings of European Conference on Computer Vision, (ECCV)},

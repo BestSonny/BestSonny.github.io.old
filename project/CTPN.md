@@ -22,7 +22,7 @@ permalink: /project/CTPN/
 	</div>
 	
         <div class="affiliations">
-	  <a href="http://www.ox.ac.uk/">University of Oxford</a>
+	  <a href="http://www.robots.ox.ac.uk/~vgg/">Visual Geometry Group, University of Oxford</a>
 	</div>
 
 	<div class="affiliations">
@@ -47,7 +47,7 @@ permalink: /project/CTPN/
 in convolutional feature maps. We develop a vertical anchor mechanism that jointly predicts location and text/non-text score of each fixed-width proposal, considerably improving localization accuracy. The sequential
 proposals are naturally connected by a recurrent neural network, which is seamlessly incorporated into the convolutional network, resulting in an end-to-end trainable model. This allows the CTPN to explore rich context information of image, making it powerful to detect extremely
 ambiguous text. The CTPN works reliably on multi-scale and multilanguage text without further post-processing, departing from previous bottom-up methods requiring multi-step post filtering. It achieves 0.88
-and 0.61 F-measure on the ICDAR 2013 and 2015 benchmarks, surpassing recent results by a large margin. The CTPN is computationally efficient with 0.14s/image, by using the very deep VGG16 model [27]. Online demo is available at: http://textdet.com/.
+and 0.61 F-measure on the ICDAR 2013 and 2015 benchmarks, surpassing recent results by a large margin. The CTPN is computationally efficient with 0.14s/image, by using the very deep VGG16 model. Online demo is available at: http://textdet.com/.
 	</p>
 </div>
 
