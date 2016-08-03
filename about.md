@@ -78,14 +78,14 @@ My research interests lie in computer vision, machine learning and pattern recog
     <em>in Proceedings of European Conference on Computer Vision, 2016 (<a>ECCV</a>)<br>
       <p style="margin-Top:3px">
         <a href="/pdf/ztian2016_eccv.pdf">Paper</a> /
-        <a href="http://textdet.com/">Demo</a> /
+        <a href="http://textdet.com/">Demo</a>
       </p>
     </em>
   </li>
 	<li>
 	  <a href="http://arxiv.org/abs/1506.04395">Reading Scene Text in Deep Convolutional Sequences,</a><br>
 	  <b>Pan he</b>, Weilin Huang, Yu Qiao, Chen Change Loy, Xiaoou Tang.<br>
-	  <em>in Proceedings of AAAI Conference on Artificial Intelligence, 2016 (<a>AAAI Oral</a>) <br>
+	  <em>AAAI Conference on Artificial Intelligence, 2016 (<a>AAAI Oral</a>) <br>
 		  <p style="margin-Top:3px">
 		  	<a href="http://arxiv.org/abs/1506.04395">Paper</a> /
 		  	<a href="/project/DTRN">ProjectPage</a> /
@@ -120,7 +120,7 @@ My research interests lie in computer vision, machine learning and pattern recog
 
 <div style="text-align: left;" markdown="1">
 * February 2016,    SIAT Direct Scholarship for Innovation and Creativity
-* June 2015,        Graduation Thesis Awarded First Prize  (2 recipients in SE   department)
+* June 2015,       Graduation Thesis Awarded First Prize  (2 recipients in SE   department)
 * June 2015,        Outstanding Graduate of Sichuan University (Top 2%)
 * February 2014, 	Second Prize, Chinese International Software Design and Application Contest
 * May 2014,    		First Prize, Waterloo Cup
