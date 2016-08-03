@@ -79,8 +79,7 @@ My research interests lie in computer vision, machine learning and pattern recog
       <p style="margin-Top:3px">
         <a href="/pdf/ztian2016_eccv.pdf">Paper</a> /
         <a href="http://textdet.com/">Demo</a> /
-      </p>
-    <a shape="rect" href="javascript:show_switch('zhitian16DetectingText_bib')" class="togglebib" >Bibtex</a>
+        <a shape="rect" href="javascript:show_switch('zhitian16DetectingText_bib')" class="togglebib" >Bibtex</a>
 <pre id="zhitian16DetectingText_bib" style="display: none" xml:space="preserve">
 @inproceedings{zhitian16DetectingText,
  Author    = {Zhi Tian and
@@ -92,7 +91,6 @@ My research interests lie in computer vision, machine learning and pattern recog
  Booktitle = {in Proceedings of European Conference on Computer Vision, (ECCV)},
  Year      = {2016}}
 </pre>
-		  </p>
 	  </em>
   </li>
 	<li>
