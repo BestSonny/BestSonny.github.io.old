@@ -17,4 +17,5 @@
   subcategories:
     - subtitle: "DTRN"
       subhref: "/project/DTRN/"
+    - subtitle: "CTPN"
       subhref: "/project/CTPN/"
