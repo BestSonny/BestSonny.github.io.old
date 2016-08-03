@@ -91,6 +91,7 @@ My research interests lie in computer vision, machine learning and pattern recog
  Booktitle = {in Proceedings of European Conference on Computer Vision, (ECCV)},
  Year      = {2016}}
 </pre>
+     </p>
 	  </em>
   </li>
 	<li>
@@ -113,6 +114,7 @@ My research interests lie in computer vision, machine learning and pattern recog
  Booktitle = {in Proceedings of AAAI Conference on Artificial Intelligence, (AAAI)},
  Year      = {2016}}
 </pre>
+      </p>
 	  </em>
 </li>
 </ul>
