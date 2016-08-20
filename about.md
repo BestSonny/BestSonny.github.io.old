@@ -35,18 +35,14 @@ permalink: /about/
 <div class="about">
 
 <p align="justify">
-I received B.E. degree from <a href='http://www.scu.edu.cn/software2012/'>Department of Software Engineering</a> at <a href='http://www.scu.edu.cn/en/'>Sichuan University</a> in June, 2015, and now I am a joint research assistant in  <a href='http://www.ie.cuhk.edu.hk/main/index.shtml'>Department of Information Engineering</a> at <a href='http://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> (CUHK) and <a href='http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/'>Multimedia Research Center</a> at <a href='http://english.siat.cas.cn/'>Shenzhen Institute of Advanced Technology</a>.
-
-I am working at the <a href='http://mmlab.ie.cuhk.edu.hk/'>Multimedia Lab</a>. Meanwhile, I work closely with Dr. <a href='http://www.wlhuang.com/'>Weilin Huang</a> and Prof. <a href='http://mmlab.siat.ac.cn/yuqiao/'>Yu Qiao</a>.
-
+I am a Master Student at <a href='http:/www.ece.ufl.edu'>Department of Electrical & Computer Engineering<a>,  <a href='http:/www.ece.ufl.edu'>University of Florida</a>. I work at <a href='http://www.s3lab.ece.ufl.edu/'>Scalable Software Systems Laboratory (S3Lab)</a> where I am supervised by <a href='http://www.andyli.ece.ufl.edu/'>Andy Li</a>.
 <br /> <br />
+Before coming to Gator Nation, I received B.E. degree from <a href='http://www.scu.edu.cn/software2012/'>Department of Software Engineering</a>, <a href='http://www.scu.edu.cn/en/'>Sichuan University</a> in June, 2015.
 
-My research interests lie in computer vision, machine learning and pattern recognition. In particular, I focus on scene text understanding including scene text recognition and scene text detection.
+I once worked as a Research Assistant at the <a href='http://mmlab.ie.cuhk.edu.hk/'>Multimedia Lab</a>, <a href='http://www.ie.cuhk.edu.hk/main/index.shtml'>the Department of Information Engineering</a>, <a href='http://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> ((MMLab, CUHK) and <a href='http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/'>Multimedia Research Center</a>, <a href='http://english.siat.cas.cn/'>Shenzhen Institute of Advanced Technology</a> (MMLab, SIAT) under the supervision of Dr. <a href='http://www.wlhuang.com/'>Weilin Huang</a> and Prof. <a href='http://personal.ie.cuhk.edu.hk/~ccloy/'>Chen Change Loy</a>, supported by Prof. <a href='http://mmlab.siat.ac.cn/yuqiao/'>Yu Qiao</a> and Prof. <a href='http://www.ie.cuhk.edu.hk/people/xotang.shtml'>Xiaoou Tang</a>.
+
+As an enthusiastic researcher, my goal is to combine state-of-the-art computer vision algorithms with real-life industrial problems, while focussing mainly on providing robust and complete solutions on scene text and self-driving car.
 <br /> <br />
-
-</p>
-
-</div>
 
 
 <!-- <h2 id="education">Education</h2>
@@ -62,10 +58,10 @@ My research interests lie in computer vision, machine learning and pattern recog
 
 <div style="text-align: justify;" markdown="1">
 
-* October 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, Multimedia Laboratory, The Chinese University of Hong Kong
-* July 2015 - Present: &nbsp;&nbsp;&nbsp; Research Assistant, Multimedia Research Center, The Shenzhen Institues of Advanced Technology
-* July 2014 - September 2014: &nbsp;&nbsp;&nbsp; Summer Intern, National University of Singapore
-* September 2013 - May 2014: &nbsp;&nbsp;&nbsp; Project Developer, Facebook’s OpenSource Academy
+* Oct. 2015 - Jul. 2016: Research Assistant, Multimedia Laboratory, The Chinese University of Hong Kong
+* Sept. 2014 - Jul.2016: Research Assistant, Multimedia Research Center, The Shenzhen Institues of Advanced Technology
+* Jul. 2014 - Sept. 2014: Summer Intern, National University of Singapore
+* Sept. 2013 - May. 2014: Project Developer, Facebook’s OpenSource Academy
 
 </div>
 
@@ -128,22 +124,25 @@ My research interests lie in computer vision, machine learning and pattern recog
 	</li>
 </ul>
 
-<h2 id="awards">Honors & Awards</h2>
+<h2 id="awards">Selected Awards</h2>
 
 <div style="text-align: left;" markdown="1">
-* February 2016,    SIAT Direct Scholarship for Innovation and Creativity
-* June 2015,       Graduation Thesis Awarded First Prize  (2 recipients in SE   department)
-* June 2015,        Outstanding Graduate of Sichuan University (Top 2%)
-* February 2014, 	Second Prize, Chinese International Software Design and Application Contest
-* May 2014,    		First Prize, Waterloo Cup
-* March 2014,    	Third Prize, Mathematical Contest In Modeling
-* March 2014,    	Outstanding Team, ICS&S Internship Project
-* November 2013, 	First Prize Scholarship (Top 2%)
-* November 2013, 	National Aspiration Scholarship (Top 5%)
-* November 2013,  	Merit Student (Top 5%)
-* November 2012,  	National Aspiration Scholarship (Top 5%)
-* November 2012,  	Third Prize Scholarship (Top 5%)
-* November 2012,  	Merit Student (Top 5%)
+* SIAT Direct Scholarship for Innovation and Creativity
+* Graduation Thesis Awarded First Prize
+* Outstanding Graduate of Sichuan University
+</div>
 
-
+<h2 id="awards">Friends && Collaborators</h2>
+<div style="clear: both;">
+<div class="paper">
+<a href='http://www.wlhuang.com/'>Weilin Huang</a>  (Oxford),
+<a href='http://tonghe90.github.io/'>Tong He</a> (Adelaide),
+<a href='http://wangzheallen.github.io/'>Zhe Wang</a> (UCI),
+<a href='http://guoshengcv.github.io/'>Sheng Guo</a> (SIAT),
+<a href='http://ydwen.github.io'>Yandong Wen</a> (CMU&SYSU),   
+<a href='http://wanglimin.github.io/'>Limin Wang</a> (ETHz),
+<a href='http://zbwglory.github.io/'>Bowen Zhang</a> (Tongji University),
+<a href='http://kpzhang93.github.io/'>Kaipeng Zhang</a> (NTU Taiwan),
+<a href='http://mmlab.siat.ac.cn/yuqiao/index.html'>Yu Qiao</a> (SIAT)
+</div>
 </div>
