@@ -39,7 +39,7 @@ I am a Master Student at <a href='http:/www.ece.ufl.edu'>Department of Electrica
 <br /> <br />
 Before coming to Gator Nation, I received B.E. degree from <a href='http://www.scu.edu.cn/software2012/'>Department of Software Engineering</a>, <a href='http://www.scu.edu.cn/en/'>Sichuan University</a> in June, 2015.
 
-I once worked as a Research Assistant at the <a href='http://mmlab.ie.cuhk.edu.hk/'>Multimedia Lab</a>, <a href='http://www.ie.cuhk.edu.hk/main/index.shtml'>the Department of Information Engineering</a>, <a href='http://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> ((MMLab, CUHK) and <a href='http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/'>Multimedia Research Center</a>, <a href='http://english.siat.cas.cn/'>Shenzhen Institute of Advanced Technology</a> (MMLab, SIAT) under the supervision of Dr. <a href='http://www.wlhuang.com/'>Weilin Huang</a> and Prof. <a href='http://personal.ie.cuhk.edu.hk/~ccloy/'>Chen Change Loy</a>, supported by Prof. <a href='http://mmlab.siat.ac.cn/yuqiao/'>Yu Qiao</a> and Prof. <a href='http://www.ie.cuhk.edu.hk/people/xotang.shtml'>Xiaoou Tang</a>.
+I once worked as a Research Assistant at the <a href='http://mmlab.ie.cuhk.edu.hk/'>Multimedia Lab</a>, <a href='http://www.ie.cuhk.edu.hk/main/index.shtml'>Department of Information Engineering</a>, <a href='http://www.cuhk.edu.hk/english/index.html'>Chinese University of Hong Kong</a> ((MMLab, CUHK) and <a href='http://www.siat.cas.cn/jgsz/kyxt/jcs/yjdy/dmtjc/'>Multimedia Research Center</a>, <a href='http://english.siat.cas.cn/'>Shenzhen Institute of Advanced Technology</a> (MMLab, SIAT) under the supervision of Dr. <a href='http://www.wlhuang.com/'>Weilin Huang</a> and Prof. <a href='http://personal.ie.cuhk.edu.hk/~ccloy/'>Chen Change Loy</a>, supported by Prof. <a href='http://mmlab.siat.ac.cn/yuqiao/'>Yu Qiao</a> and Prof. <a href='http://www.ie.cuhk.edu.hk/people/xotang.shtml'>Xiaoou Tang</a>.
 
 As an enthusiastic researcher, my goal is to combine state-of-the-art computer vision algorithms with real-life industrial problems, while focussing mainly on providing robust and complete solutions on scene text and self-driving car.
 <br /> <br />
@@ -58,8 +58,8 @@ As an enthusiastic researcher, my goal is to combine state-of-the-art computer v
 
 <div style="text-align: left;" markdown="1">
 
-* Oct.  2015 - Jul. 2016: Research Assistant, Multimedia Laboratory, The Chinese University of Hong Kong
-* Sept. 2014 - Jul. 2016: Research Assistant, Multimedia Research Center, The Shenzhen Institues of Advanced Technology
+* Oct.  2015 - Jul. 2016: Research Assistant, Multimedia Laboratory, Chinese University of Hong Kong
+* Sept. 2014 - Jul. 2016: Research Assistant, Multimedia Research Center, Shenzhen Institues of Advanced Technology
 * Jul.  2014 - Sept. 2014: Summer Intern, National University of Singapore
 * Sept. 2013 - May. 2014: Project Developer, Facebook’s OpenSource Academy
 
