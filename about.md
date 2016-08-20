@@ -70,7 +70,7 @@ As an enthusiastic researcher, my goal is to combine state-of-the-art computer v
 <ul>
   <li>
     <a>Detecting Text in Natural Image with Connectionist Text Proposal Network,</a><br>
-    Zhi Tian, Weilin Huang, Tong He, Pan he, Yu Qiao.<br>
+    Zhi Tian, Weilin Huang, Tong He, <b>Pan he</b>, Yu Qiao.<br>
     <em>in Proceedings of European Conference on Computer Vision, 2016 (<a>ECCV</a>)<br>
       <p style="margin-Top:3px">
         <a href="/pdf/ztian2016_eccv.pdf">Paper</a> /
