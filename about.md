@@ -56,11 +56,11 @@ As an enthusiastic researcher, my goal is to combine state-of-the-art computer v
 
 <h2 id="experience">Experience</h2>
 
-<div style="text-align: justify;" markdown="1">
+<div style="text-align: left;" markdown="1">
 
-* Oct. 2015 - Jul. 2016: Research Assistant, Multimedia Laboratory, The Chinese University of Hong Kong
-* Sept. 2014 - Jul.2016: Research Assistant, Multimedia Research Center, The Shenzhen Institues of Advanced Technology
-* Jul. 2014 - Sept. 2014: Summer Intern, National University of Singapore
+* Oct.  2015 - Jul. 2016: Research Assistant, Multimedia Laboratory, The Chinese University of Hong Kong
+* Sept. 2014 - Jul. 2016: Research Assistant, Multimedia Research Center, The Shenzhen Institues of Advanced Technology
+* Jul.  2014 - Sept. 2014: Summer Intern, National University of Singapore
 * Sept. 2013 - May. 2014: Project Developer, Facebook’s OpenSource Academy
 
 </div>
