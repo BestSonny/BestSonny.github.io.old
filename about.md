@@ -71,7 +71,7 @@ As an enthusiastic researcher, my goal is to combine state-of-the-art computer v
   <li>
     <a>Detecting Text in Natural Image with Connectionist Text Proposal Network,</a><br>
     Zhi Tian, Weilin Huang, Tong He, <b>Pan He</b>, Yu Qiao.<br>
-    <em>in Proceedings of European Conference on Computer Vision, 2016 (<a>ECCV</a>)<br>
+    <em>In Proceedings of European Conference on Computer Vision, 2016 (<a>ECCV</a>)<br>
       <p style="margin-Top:3px">
         <a href="/pdf/ztian2016_eccv.pdf">Paper</a> /
         <a href="http://textdet.com/">Demo</a> /
@@ -93,7 +93,7 @@ As an enthusiastic researcher, my goal is to combine state-of-the-art computer v
 	<li>
 	  <a href="http://arxiv.org/abs/1506.04395">Reading Scene Text in Deep Convolutional Sequences,</a><br>
 	  <b>Pan He</b>, Weilin Huang, Yu Qiao, Chen Change Loy, Xiaoou Tang.<br>
-	  <em>AAAI Conference on Artificial Intelligence, 2016 (<a>AAAI Oral</a>) <br>
+	  <em>Proceedings of AAAI Conference on Artificial Intelligence, 2016 (<a>AAAI Oral</a>) <br>
 		  <p style="margin-Top:3px">
 		  	<a href="http://arxiv.org/abs/1506.04395">Paper</a> /
 		  	<a href="/project/DTRN">ProjectPage</a> /
